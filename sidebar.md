@@ -1,4 +1,5 @@
 * [Resumen](main.md)
 * [Procesamiento de imágenes](page1.md)
 * [Detección de patrones](page2.md)
+* [Informe final (muy pronto)]()
 * [Código fuente](https://github.com/FingProygrad2016/intellicomp_persondetection)
