@@ -189,4 +189,6 @@ $(document).ready(function() {
     document.title = TITLE;
     $('#title-page').html(TITLE);
     $('#sub-title-page').html(SUB_TITLE);
+    $('#authors').html(AUTHORS);
+    $('#tutor').html(TUTOR);
 });
